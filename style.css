@@ -1,0 +1,92 @@
+
+body{background-color: #F2E530}
+
+header{background-color: #F2E530;
+        }
+
+.header-foto{width: 300px;}
+
+h1{font-weight:bolder;
+    padding: 10px;}
+
+.projects{background-color: #0A0B0A;}
+
+.card{ background-color: #0A0B0A;
+        border-color: #daa520;
+        align-items: center;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+            }
+
+.container{padding-bottom: 5%;}
+
+.card-title{color: white;}
+
+.card-text{color: white;}
+
+.btn-card{background-color:  #093d77;
+            border-color: none;
+            border-style: none;}
+
+.btn-primary{border-color: none;
+    background-color:  #093d77;
+    border-style: none;}
+
+.btn{border-color: none;}
+
+.card-img-top{width: 200px;
+            padding-top: 20px;}
+
+.projects{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 30px;}
+
+.titulo-misproyectos{color: white;
+                    padding-bottom: 30px;
+                    }
+
+.titulo-habilidades{padding-left: 20px;
+                    padding-right: 20px;
+                    }
+
+.mis-habilidades{ background-color: #F2E530;
+                padding-top: 10%;
+                padding-bottom: 10%;}
+
+.accordion-item{background-color: #F2E530;
+                border-color: #612273;}
+
+.accordion-button{background-color: #F2E530;
+    border-color: #612273;}
+
+.container-contacto{background-color: #0A0B0A;
+                    padding: 5%;}
+
+.titulo-contacto{color: white;}
+
+.col-form-label{color: white;}
+
+.form-check-label{color: white;}
+
+
+
+@media (min-width: 576px) {
+    .header-foto{width: 500px;}
+    
+}
+
+@media (min-width: 768px) {
+
+    .titulo {padding-top: 200px;}
+
+    .projects{
+            padding-left: 100px;}
+                }
+    
+    
+
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
